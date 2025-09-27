@@ -1,0 +1,6 @@
+{
+  "name": "apsjobs",
+  "type": "module",
+  "scripts": { "scrape": "node scrape.js" },
+  "dependencies": { "playwright": "^1.47.0" }
+}
